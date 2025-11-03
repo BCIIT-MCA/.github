@@ -65,7 +65,7 @@ Build features for live applications and take your coding skills to the next lev
 
 - ✅ Open to all college students (individual or team of up to 2)
 - 🎯 Choose only ONE level to compete in
-- 🚫 Original code only — no plagiarism or AI-generated code
+- 🔧 You can use AI Tools
 - 🌐 Internet allowed for documentation/reference
 - ⚖️ Judges' decision is final
 - 📜 All participants receive an E-Certificate
